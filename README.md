@@ -21,5 +21,5 @@ The goal of this project was to take obtain the dataset located [here](https://d
  5. Appropriately labels the data set with descriptive variable names
  7. Extracts subset of data "df1" that only consists of mean and standard deviations measuremnts variables.
  8. Format the varibales names to easily understandable format by removing special characrters such as "/,(),_".
- 9. Creates data set("avg_data") which consists of mean for each varibale for each actvity and each subject.  
- 10. Writes and saves "avg_data" as "tidy_data" in text format.
+ 9. Creates data set("df2") which consists of mean for each varibale for each actvity and each subject.  
+ 10. Writes and saves "df2" as "tidy_data" in text format.
