@@ -4,10 +4,10 @@ The goal of this project was to take obtain the dataset located [here](https://d
 1. The `"feature.txt"` file- contains all the information on features/measurements.
 2. The `"activity_labels.txt"` file- consist of all the name of the activities corresponding to numbers (0-6). 
 3. The train data consists of the following files.\
-    a. `"subject_train.txt"` file- it has all the subjects with subject-Id (0-30) who performed the activities for the   
-         measurements\
+    a. `"subject_train.txt"` file- it has all the subjects with subject-Id (0-30) who performed the activities for the          measurements\
     b. `"y_train.txt"` file-It consists of all the activities in the form of numbers (0-6) performed by the subjects.\
-    c. `"X_train.txt"` file- It consists of measurements of variable/features for each activity performed by each subject
+    c. `"X_train.txt"` file- It consists of measurements of variable/features for each activity performed by each\
+         subject
 4. The test data consists of the following files.\
     a. `"subject_test.txt"` file- it has all the subjects (0-30) who performed the activities for the measurements\
     b. `"y_test.txt"` file-It consists of all the activities in the form of numbers (0-6) performed by the subjects.\
