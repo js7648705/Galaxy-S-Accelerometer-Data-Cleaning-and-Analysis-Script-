@@ -1,4 +1,4 @@
-# Data-Cleaning-Coursera-Project-Python
+# Data-Cleaning-Project
 The goal of this project was to take obtain the dataset located [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip), from this [source](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), and combines all the information from all the files and transforms the data into one clean-data-file, which has all the columns with descriptive names, and performs analysis on cleaned data. The zip file comes in with two files (feature.txt and activity_labels.txt ) and two folders (train and test).
 
 1. The `"feature.txt"` file- contains all the information on features/measurements.
